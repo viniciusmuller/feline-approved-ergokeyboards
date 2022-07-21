@@ -1,5 +1,5 @@
 # Feline-Approved Ergokeyboards
-This repository contains pictures of different ergonomical keyboards being
+This repository contains pictures of different ergonomic keyboards being
 approved by felines.
 
 <p align="center">
