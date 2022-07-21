@@ -3,8 +3,11 @@ This repository contains pictures of different ergonomical keyboards being
 approved by felines.
 
 <p align="center">
-  <img src="./dactyl-manuform/dactyl-manuform-mini-approved.jpg">
+  <img src="./dactyl/manuform-mini/dactyl-manuform-mini-approved.jpg">
 </p>
+
+# Current Approved Models
+- [Dactyl Manuform Mini](./dactyl/manuform-mini/)
 
 # Contributing
 If you have a picture like this or want to take one now, feel free to open a
